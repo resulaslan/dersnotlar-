@@ -3,3 +3,6 @@
     - Programlar
     - Program Ekle/Kaldır
     - Silinecek Programı Seç
+
+- Görünüm ve Kişiselleştirme
+    - Kişiselleştirme
