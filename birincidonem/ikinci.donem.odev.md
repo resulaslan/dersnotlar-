@@ -1,5 +1,5 @@
 ### c# ile word programı
-> 2. Dönem ödev
+> 2 . Dönem ödev
 
 - Kelime İşlem Kısmı
 - Renk Tablosu
